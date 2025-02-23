@@ -9,3 +9,5 @@ In this repository you can find supplementary material to the paper Sounds Vishy
 ### [Videos provided](src/videos.md)
 
 ### [Personas](src/personas.md)
+
+### [Recruitment process](src/recruitment_process.md)
