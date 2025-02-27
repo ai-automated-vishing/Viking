@@ -13,3 +13,5 @@ In this repository you can find supplementary material to the paper Sounds Vishy
 ### [Recruitment process](src/recruitment_process.md)
 
 ### [Transcript samples](src/transcriptions.md)
+
+### [Audio samples](src/audios.md)
