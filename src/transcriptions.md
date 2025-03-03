@@ -1,6 +1,6 @@
 # Transcriptions
 
-We present a random selection of transcriptions from scenarios where the bot attempts to collect a sensitive information. The transc in folder [transcription_examples](transcription_examples/). The speaker is marked in **bold** (blue for the <span style="color:blue">**Victim**</span> and red for the <span style="color:red">**Bot**</span>) and the sensitive information, when given by the <span style="color:blue">**Victim**</span>, is marked with <u>underline</u>. 
+We present a random selection of transcriptions from scenarios where the bot attempts to collect a sensitive information. The transcriptions can be found in [transcription_examples/](transcription_examples/). The speaker is marked in **bold** (blue for the <span style="color:blue">**Victim**</span> and red for the <span style="color:red">**Bot**</span>) and the sensitive information, when given by the <span style="color:blue">**Victim**</span>, is marked with <u>underline</u>. 
 
 ## First sample
 
